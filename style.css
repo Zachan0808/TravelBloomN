@@ -340,6 +340,11 @@ p {
   width: 30vw;
 }
 
+.popup p {
+  margin: 1%;
+  width: 90%;
+}
+
 .popup button {
   width: 100%;
   margin-top: 2%;
